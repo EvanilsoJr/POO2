@@ -6,7 +6,7 @@ Aluno: Evanilso Soares da Silva Júnior
 
 O repositório contém a pasta src com todas as classes do projeto e o arquivo pessoas.txt testado com insert feito em casa;
 
-O sistema conta a "classe pai", "classes filhas", outras entidades, validador, formatador e exceptions;
+O sistema conta com a "classe pai", "classes filhas", outras entidades, validador, formatador e exceptions;
 
 Dentro da classe abstrata, também existem métodos abstratos;
 
