@@ -17,3 +17,5 @@ Algumas classes possuem estruturas lógicas, a Main por exemplo, possui switch/c
 A classe Main também possui um menu interativo via scanner e o uso de try/catch;
 
 O código também contém gets e setters, array lists, relacionamentos 1:N e N:N entre classes, sobrescrita de métodos e uma classe para salvar e atualizar o arquivo .txt.
+
+O código foi escrito e executado em Java no IntelliJ Community IDE, utilizando o JDK 21 e testado na classe Main.
